@@ -251,36 +251,12 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: "blog/tag"
-    values:
-      sitemap: false
-  - scope:
-      path: "blog/category"
-    values:
-      sitemap: false
-  - scope:
-      path: "blog/20"
-    values:
-      sitemap: false
-  - scope:
       path: "blog/page"
     values:
       sitemap: false
   - scope:
       path: ""
       type: "books"
-    values:
-      sitemap: false
-  - scope:
-      path: "books/tag"
-    values:
-      sitemap: false
-  - scope:
-      path: "books/category"
-    values:
-      sitemap: false
-  - scope:
-      path: "books/20"
     values:
       sitemap: false
 
