@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle: PhD Student in Management Information Systems, University of British Columbia
 
 profile:
   align: right
