@@ -403,7 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-received-the-paul-chwelos-memorial-graduate-scholarship-for-teaching-at-ubc-sauder",
           title: '🏆 Received the Paul Chwelos Memorial Graduate Scholarship for teaching at UBC Sauder....',
           description: "",
-          section: "News",},{id: "news-our-paper-large-language-models-in-the-institutional-press-with-myunghwan-lee-mi-zhou-and-gene-moo-lee-is-conditionally-accepted-at-mis-quarterly-amp-lt-br-amp-gt",
+          section: "News",},{id: "news-our-paper-large-language-models-in-the-institutional-press-with-myunghwan-lee-mi-zhou-and-gene-moo-lee-is-conditionally-accepted-at-mis-quarterly",
           title: '🎉 Our paper Large Language Models in the Institutional Press (with Myunghwan Lee,...',
           description: "",
           section: "News",},{id: "projects-project-1",
