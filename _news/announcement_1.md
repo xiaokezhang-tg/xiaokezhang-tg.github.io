@@ -6,4 +6,4 @@ related_posts: false
 sitemap: false
 ---
 
-🎉 Our paper [Large Language Models in the Institutional Press](https://ssrn.com/abstract=5357471) (with Myunghwan Lee, Mi Zhou, and Gene Moo Lee) is conditionally accepted at <i>MIS Quarterly</i>!
+🎉 Our paper [Large Language Models in the Institutional Press](https://ssrn.com/abstract=5357471) (with Myunghwan Lee, Mi Zhou, and Gene Moo Lee) is conditionally accepted at <br><i>MIS Quarterly</i></br>!
