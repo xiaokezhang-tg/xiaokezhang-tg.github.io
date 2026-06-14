@@ -391,13 +391,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-best-paper-award-runner-up-at-krais-summer-workshop-2023-for-our-tiktok-ai-voice-paper-with-mi-zhou-and-gene-moo-lee",
+          title: '🥈 Best Paper Award Runner-Up at KrAIS Summer Workshop 2023 for our TikTok...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-best-student-paper-award-finalist-at-cist-2023-for-our-tiktok-ai-voice-paper-with-mi-zhou-and-gene-moo-lee",
+          title: '🏅 Best Student Paper Award Finalist at CIST 2023 for our TikTok AI...',
+          description: "",
+          section: "News",},{id: "news-awarded-ubc-affiliated-awards-for-2025-2026",
+          title: '🎓 Awarded UBC Affiliated Awards for 2025–2026.',
+          description: "",
+          section: "News",},{id: "news-received-the-paul-chwelos-memorial-graduate-scholarship-for-teaching-at-ubc-sauder",
+          title: '🏆 Received the Paul Chwelos Memorial Graduate Scholarship for teaching at UBC Sauder....',
+          description: "",
+          section: "News",},{id: "news-our-paper-large-language-models-in-the-institutional-press-with-myunghwan-lee-mi-zhou-and-gene-moo-lee-is-conditionally-accepted-at-mis-quarterly",
+          title: '🎉 Our paper Large Language Models in the Institutional Press (with Myunghwan Lee,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
