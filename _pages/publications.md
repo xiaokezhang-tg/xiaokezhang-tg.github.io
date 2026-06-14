@@ -13,6 +13,10 @@ nav_order: 1
 
 <div class="publications">
 
+<h3 id="journal-publications"><b>Journal Publications</b></h3>
+
+{% bibliography --query @*[category=journal]* %}
+
 <h3 id="working-papers"><b>Working Papers</b></h3>
 
 {% bibliography --query @*[category=working_paper]* %}
