@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD Student in Management Information Systems, University of British Columbia
+subtitle:
 
 profile:
   align: right
@@ -15,11 +15,13 @@ profile:
     <p></p>
     <p>xiaoke.zhang@sauder.ubc.ca</p>
 
-selected_papers: true
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
