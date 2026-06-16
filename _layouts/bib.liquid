@@ -1,6 +1,18 @@
 ---
 ---
 <div class="row">
+  <!-- Title spans full width -->
+  <div class="col-sm-12">
+    <div id="{{ entry.key }}" class="title">
+      {%- if entry.url -%}
+        <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
+      {%- else -%}
+        {{ entry.title }}
+      {%- endif -%}
+    </div>
+  </div>
+</div>
+<div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -45,16 +57,8 @@
     </div>
   {% endif %}
 
-  <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-    <!-- Title -->
-    <div class="title">
-      {%- if entry.url -%}
-        <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
-      {%- else -%}
-        {{ entry.title }}
-      {%- endif -%}
-    </div>
+  <!-- Entry details -->
+  <div class="{% if site.enable_publication_thumbnails %}col-sm-10{% else %}col-sm-12{% endif %}">
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
