@@ -33,6 +33,8 @@ I study **AI in creation** through two interrelated streams: (i) understanding t
 
 I apply mixed methods in my research, with a particular focus on multimodal data analysis, causal inference, randomized experiments, and system design.
 
+A copy of my curriculum vitae can be found [here](/assets/pdf/XiaokeZhang_CV.pdf).
+
 <br>
 
 **Research Interests**
