@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-06-01 00:00:00
+date: 2026-06-12 00:00:00
 inline: true
 related_posts: false
 sitemap: false
