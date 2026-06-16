@@ -33,7 +33,7 @@ I study **AI in creation** through two interrelated streams: (i) understanding t
 
 I apply mixed methods in my research, with a particular focus on multimodal data analysis, causal inference, randomized experiments, and system design.
 
-A copy of my curriculum vitae can be found [here](/assets/pdf/XiaokeZhang_CV.pdf).
+A copy of my curriculum vitae can be found [here](/assets/pdf/Xiaoke_Zhang_CV.pdf).
 
 <br>
 
@@ -41,9 +41,8 @@ A copy of my curriculum vitae can be found [here](/assets/pdf/XiaokeZhang_CV.pdf
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px;">
   <span style="background-color: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; border-radius: 20px; padding: 3px 14px; font-size: 0.88em; font-weight: 400;">Generative AI &amp; Creation</span>
-  <span style="background-color: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; border-radius: 20px; padding: 3px 14px; font-size: 0.88em; font-weight: 400;">AI Governance</span>
+  <span style="background-color: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; border-radius: 20px; padding: 3px 14px; font-size: 0.88em; font-weight: 400;">Multimodal Content</span>
   <span style="background-color: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; border-radius: 20px; padding: 3px 14px; font-size: 0.88em; font-weight: 400;">Large Language Models</span>
-  <span style="background-color: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; border-radius: 20px; padding: 3px 14px; font-size: 0.88em; font-weight: 400;">Multimodal Data Analysis</span>
   <span style="background-color: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; border-radius: 20px; padding: 3px 14px; font-size: 0.88em; font-weight: 400;">Causal Inference</span>
 </div>
 
