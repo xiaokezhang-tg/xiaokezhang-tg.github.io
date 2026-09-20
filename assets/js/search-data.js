@@ -64,7 +64,10 @@ ninja.data = [{
           section: "News",},{id: "news-received-the-paul-chwelos-memorial-graduate-scholarship-for-teaching-at-ubc-sauder",
           title: '🏆 Received the Paul Chwelos Memorial Graduate Scholarship for teaching at UBC Sauder....',
           description: "",
-          section: "News",},{id: "news-our-paper-large-language-models-in-the-institutional-press-with-myunghwan-lee-mi-zhou-and-gene-moo-lee-is-conditionally-accepted-at-mis-quarterly",
+          section: "News",},{id: "news-i-will-be-attending-the-informs-information-systems-society-doctoral-consortium-and-the-icis-doctoral-consortium",
+          title: '🎓 I will be attending the INFORMS Information Systems Society Doctoral Consortium and...',
+          description: "",
+          section: "News",},{id: "news-our-paper-large-language-models-in-the-institutional-press-with-myunghwan-lee-mi-zhou-and-gene-moo-lee-is-accepted-at-mis-quarterly",
           title: '🎉 Our paper Large Language Models in the Institutional Press (with Myunghwan Lee,...',
           description: "",
           section: "News",},{
